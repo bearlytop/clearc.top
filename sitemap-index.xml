@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://clearc.top/sitemap.xml</loc>
+    <lastmod>2026-06-02</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://clearc.top/sitemap-images.xml</loc>
+    <lastmod>2026-06-02</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://clearc.top/sitemap-news.xml</loc>
+    <lastmod>2026-06-02</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://clearc.top/spider_sitemap.xml</loc>
+    <lastmod>2026-06-02</lastmod>
+  </sitemap>
+</sitemapindex>
