@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://clearc.top/shi-ce-qi-ba-jia-ji-chang-hou-wei-yi-liu-xia-de-na-jia-san-ge-yue-shen-du-ping-c-7245/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>clearc</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T03:40:09Z</news:publication_date>
+      <news:title>实测七八家机场后，唯一留下的那家——三个月深度评测</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://clearc.top/shi-ce-2024-nian-zui-xin-xing-jia-bi-ji-chang-wan-gao-feng-4k-wen-bu-wen-zhen-sh-1431/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>clearc</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T03:40:08Z</news:publication_date>
+      <news:title>实测2024年最新性价比机场：晚高峰4K稳不稳？真实体验大揭秘</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://clearc.top/shou-ba-shou-jiao-ni-yi-bu-bu-qing-li-claude-huan-cun-he-lin-shi-wen-jian-shi-fa-1678/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>clearc</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T03:40:08Z</news:publication_date>
+      <news:title>手把手教你一步步清理 Claude 缓存和临时文件，释放C盘空间（含深度扫描工具推荐）</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://clearc.top/node-source-2-subscription-2026-06-07/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>clearc</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T00:00:01Z</news:publication_date>
+      <news:title>xfxssr - 最新节点订阅 2026-06-07</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://clearc.top/iepl-zhuan-xian-ji-chang-zhi-bu-zhi-shi-ce-wan-gao-feng-4k-miao-kai-kua-jing-xie-0470/</loc>
     <news:news>
       <news:publication>
@@ -43,50 +87,6 @@
       </news:publication>
       <news:publication_date>2026-06-06T00:00:01Z</news:publication_date>
       <news:title>xfxssr - 最新节点订阅 2026-06-06</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://clearc.top/v2ray-ji-chang-zen-me-xuan-bi-kai-zhe-3-ge-keng-cai-neng-zhang-qi-wen-ding-shi-y-1305/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>clearc</news:name>
-        <news:language>zh</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T02:23:19Z</news:publication_date>
-      <news:title>v2ray机场怎么选？避开这3个坑才能长期稳定使用</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://clearc.top/zhong-zhuan-ji-chang-shen-du-jie-xi-shen-me-shi-hou-gai-yong-shen-me-shi-hou-shi-9746/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>clearc</news:name>
-        <news:language>zh</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T02:23:15Z</news:publication_date>
-      <news:title>中转机场深度解析：什么时候该用，什么时候是坑？</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://clearc.top/shadowsocks-ji-chang-xuan-gou-bi-kan-diao-keng-jing-li-zong-jie-wan-gao-feng-shi-6129/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>clearc</news:name>
-        <news:language>zh</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T02:23:13Z</news:publication_date>
-      <news:title>shadowsocks机场选购必看：掉坑经历总结，晚高峰实测速度与节点稳定性是核心</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://clearc.top/node-source-2-subscription-2026-06-05/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>clearc</news:name>
-        <news:language>zh</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T00:00:01Z</news:publication_date>
-      <news:title>xfxssr - 最新节点订阅 2026-06-05</news:title>
     </news:news>
   </url>
 </urlset>
