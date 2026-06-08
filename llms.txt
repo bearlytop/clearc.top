@@ -1,0 +1,52 @@
+# clearc
+
+> ClearC硬盘清理工具
+
+## Key Pages
+
+- [Home](https://clearc.top): clearc homepage
+- [About](https://clearc.top/about): About us
+- [Contact](https://clearc.top/contact): Contact information
+
+## Recent Articles
+
+- [xfxssr - 最新节点订阅 2026-06-08](https://clearc.top/node-source-2-subscription-2026-06-08): 
+- [实测七八家机场后，唯一留下的那家——三个月深度评测](https://clearc.top/shi-ce-qi-ba-jia-ji-chang-hou-wei-yi-liu-xia-de-na-jia-san-ge-yue-shen-du-ping-c-7245): 作者付费测试了七八家机场，最终留下了一家稳定跑满三个月的服务，不吹不黑，只讲真实体验。
+- [实测2024年最新性价比机场：晚高峰4K稳不稳？真实体验大揭秘](https://clearc.top/shi-ce-2024-nian-zui-xin-xing-jia-bi-ji-chang-wan-gao-feng-4k-wen-bu-wen-zhen-sh-1431): 一周实测几家新机场，晚高峰4K能否稳住、延迟波动、支付问题全记录，有好有坏不吹不黑。
+- [手把手教你一步步清理 Claude 缓存和临时文件，释放C盘空间（含深度扫描工具推荐）](https://clearc.top/shou-ba-shou-jiao-ni-yi-bu-bu-qing-li-claude-huan-cun-he-lin-shi-wen-jian-shi-fa-1678): Claude 的对话缓存和导出文件悄悄占满C盘？本文教你4步清理：删除对话、移走文件、清空浏览器缓存，再用深度扫描工具彻底清除残留，简单不翻车。
+- [xfxssr - 最新节点订阅 2026-06-07](https://clearc.top/node-source-2-subscription-2026-06-07): 
+- [IEPL专线机场值不值？实测晚高峰4K秒开，跨境协作体验拉满](https://clearc.top/iepl-zhuan-xian-ji-chang-zhi-bu-zhi-shi-ce-wan-gao-feng-4k-miao-kai-kua-jing-xie-0470): 本文对比IEPL专线与普通机场的差异，从晚高峰4K视频、跨境视频会议到AI工具API调用，实测证明稳定省心就是省钱。
+- [SSR机场避坑指南：汇率波动与AI工具对节点的硬性要求](https://clearc.top/ssr-ji-chang-bi-keng-zhi-nan-hui-lv-bo-dong-yu-ai-gong-ju-dui-jie-dian-de-ying-x-2758): 选SSR机场不仅要看价格，还得警惕美元汇率波动带来的隐形支出；同时，若主力使用Claude等AI工具，必须选择有专门优化线路的节点。
+- [为什么老司机都推荐Trojan机场？晚高峰4K实测对比V2Ray告诉你真实答案](https://clearc.top/wei-shen-me-lao-si-ji-dou-tui-jian-trojan-ji-chang-wan-gao-feng-4k-shi-ce-dui-bi-1460): Trojan机场通过伪装HTTPS流量有效规避运营商限速，实测晚高峰4K视频流畅不掉线，比传统V2Ray/Shadowsocks更稳定。
+- [xfxssr - 最新节点订阅 2026-06-06](https://clearc.top/node-source-2-subscription-2026-06-06): 
+- [v2ray机场怎么选？避开这3个坑才能长期稳定使用](https://clearc.top/v2ray-ji-chang-zen-me-xuan-bi-kai-zhe-3-ge-keng-cai-neng-zhang-qi-wen-ding-shi-y-1305): 选机场不能只看速度和节点数量，晚高峰稳定性、后台维护成本才是关键，别等跑路了才后悔。
+- [中转机场深度解析：什么时候该用，什么时候是坑？](https://clearc.top/zhong-zhuan-ji-chang-shen-du-jie-xi-shen-me-shi-hou-gai-yong-shen-me-shi-hou-shi-9746): 一文说清中转机场的原理、优势和陷阱。重点分析中转段线路质量的重要性，以及企业内网、小众地区节点等典型适用场景，帮你判断是否真的需要中转。
+- [shadowsocks机场选购必看：掉坑经历总结，晚高峰实测速度与节点稳定性是核心](https://clearc.top/shadowsocks-ji-chang-xuan-gou-bi-kan-diao-keng-jing-li-zong-jie-wan-gao-feng-shi-6129): 作者分享多个shadowsocks机场的掉坑经历，揭示虚假节点、限速等问题，并总结筛选标准：晚高峰实际速度和节点稳定性比数量更重要。
+- [xfxssr - 最新节点订阅 2026-06-05](https://clearc.top/node-source-2-subscription-2026-06-05): 
+- [xfxssr - 最新节点订阅 2026-06-04](https://clearc.top/node-source-2-subscription-2026-06-04): 
+- [实测AI硬盘清理工具ClearC：聪明但偶尔犯傻，值不值得用？](https://clearc.top/aiclearc-0264): 本文实测了AI硬盘清理工具ClearC，它能智能识别可删文件并支持对话式查询，但存在误判重要文件的风险，中文支持也有待优化。
+- [xfxssr - 最新节点订阅 2026-06-03](https://clearc.top/node-source-2-subscription-2026-06-03): 
+- [汇率波动一秒亏一顿饭？别让电脑卡顿再偷走你的预算](https://clearc.top/hui-lv-bo-dong-yi-miao-kui-yi-dun-fan-bie-rang-dian-nao-ka-dun-zai-tou-zou-ni-de-5173): 汇率小数点后两位的变化，直接影响你的海淘成本和跨境收益。频繁查行情却遭遇电脑卡顿，可能让你错失最佳时机。
+- [Mac磁盘爆满？Clearc帮你找出隐藏多年的垃圾文件](https://clearc.top/macclearc-5695): Clearc不仅扫描速度快、粒度细，还能发现你根本不知道的系统残留与重复文件，升级macOS前用它清出几十G空间。
+- [xfxssr - 最新节点订阅 2026-06-02](https://clearc.top/node-source-2-subscription-2026-06-02): 
+- [找最新性价比机场别只盯着9.9包月！晚高峰能看4K才是真划算，附防跑路避坑指南](https://clearc.top/994k-7314): 每次换机场都在赌？找最新性价比机场的本质是寻找未被挤爆的窗口期。别再被9.9包月迷惑，低价背后往往是超售与卡顿。本文教你从协议栈、节点分布、晚高峰实测与客服响应等维度，判断机场的真实性价比与防跑路征兆。
+
+## Categories
+
+- [freenodes](https://clearc.top/category/freenodes): 
+- [产品介绍](https://clearc.top/category/products): 我们的产品和服务介绍
+- [使用教程](https://clearc.top/category/tutorials): 详细的使用指南和教程
+- [流行产品](https://clearc.top/category/product): 
+- [行业资讯](https://clearc.top/category/news): 最新行业动态和资讯
+
+## API
+
+A JSON API is available at https://clearc.top/api/v1 with endpoints:
+- GET /api/v1/site — site information
+- GET /api/v1/articles — article list (supports ?page=&search=)
+- GET /api/v1/articles/{slug} — article detail
+- GET /api/v1/categories — category list
+
+## Content Notice
+
+Content on clearc is subject to copyright. When referencing this content, please cite clearc (https://clearc.top) as the source.
