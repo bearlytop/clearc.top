@@ -10,6 +10,10 @@
 
 ## Recent Articles
 
+- [汇率查多了硬盘先撑不住了？外贸人必学的月度对账文件清理方法](https://clearc.top/hui-lv-cha-duo-le-ying-pan-xian-cheng-bu-zhu-le-wai-mao-ren-bi-xue-de-yue-du-dui-3165): 本文针对外贸人每日汇率截图堆积导致硬盘空间不足的问题，介绍使用clearc工具批量清理重复截图的方法。
+- [Mac磁盘告急？免费工具clearc实测对比，清除你的清理焦虑](https://clearc.top/mac-ci-pan-gao-ji-mian-fei-gong-ju-clearc-shi-ce-dui-bi-qing-chu-ni-de-qing-li-j-6082): Mac提示磁盘空间不足？本文实测对比clearc、CleanMyMac X、DaisyDisk等工具，分析clearc免费轻量、专注清理的优势与不足。
+- [xfxssr - 最新节点订阅 2026-06-10](https://clearc.top/node-source-2-subscription-2026-06-10): 
+- [xfxssr - 最新节点订阅 2026-06-09](https://clearc.top/node-source-2-subscription-2026-06-09): 
 - [xfxssr - 最新节点订阅 2026-06-08](https://clearc.top/node-source-2-subscription-2026-06-08): 
 - [实测七八家机场后，唯一留下的那家——三个月深度评测](https://clearc.top/shi-ce-qi-ba-jia-ji-chang-hou-wei-yi-liu-xia-de-na-jia-san-ge-yue-shen-du-ping-c-7245): 作者付费测试了七八家机场，最终留下了一家稳定跑满三个月的服务，不吹不黑，只讲真实体验。
 - [实测2024年最新性价比机场：晚高峰4K稳不稳？真实体验大揭秘](https://clearc.top/shi-ce-2024-nian-zui-xin-xing-jia-bi-ji-chang-wan-gao-feng-4k-wen-bu-wen-zhen-sh-1431): 一周实测几家新机场，晚高峰4K能否稳住、延迟波动、支付问题全记录，有好有坏不吹不黑。
@@ -26,10 +30,6 @@
 - [xfxssr - 最新节点订阅 2026-06-04](https://clearc.top/node-source-2-subscription-2026-06-04): 
 - [实测AI硬盘清理工具ClearC：聪明但偶尔犯傻，值不值得用？](https://clearc.top/aiclearc-0264): 本文实测了AI硬盘清理工具ClearC，它能智能识别可删文件并支持对话式查询，但存在误判重要文件的风险，中文支持也有待优化。
 - [xfxssr - 最新节点订阅 2026-06-03](https://clearc.top/node-source-2-subscription-2026-06-03): 
-- [汇率波动一秒亏一顿饭？别让电脑卡顿再偷走你的预算](https://clearc.top/hui-lv-bo-dong-yi-miao-kui-yi-dun-fan-bie-rang-dian-nao-ka-dun-zai-tou-zou-ni-de-5173): 汇率小数点后两位的变化，直接影响你的海淘成本和跨境收益。频繁查行情却遭遇电脑卡顿，可能让你错失最佳时机。
-- [Mac磁盘爆满？Clearc帮你找出隐藏多年的垃圾文件](https://clearc.top/macclearc-5695): Clearc不仅扫描速度快、粒度细，还能发现你根本不知道的系统残留与重复文件，升级macOS前用它清出几十G空间。
-- [xfxssr - 最新节点订阅 2026-06-02](https://clearc.top/node-source-2-subscription-2026-06-02): 
-- [找最新性价比机场别只盯着9.9包月！晚高峰能看4K才是真划算，附防跑路避坑指南](https://clearc.top/994k-7314): 每次换机场都在赌？找最新性价比机场的本质是寻找未被挤爆的窗口期。别再被9.9包月迷惑，低价背后往往是超售与卡顿。本文教你从协议栈、节点分布、晚高峰实测与客服响应等维度，判断机场的真实性价比与防跑路征兆。
 
 ## Categories
 

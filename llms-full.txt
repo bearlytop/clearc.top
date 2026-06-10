@@ -1,6 +1,145 @@
 # clearc — Full Content Index
-> Generated: 2026-06-08T11:43:02Z
+> Generated: 2026-06-10T07:49:22Z
 > Source: https://clearc.top
+
+---
+
+## 汇率查多了硬盘先撑不住了？外贸人必学的月度对账文件清理方法
+
+URL: https://clearc.top/hui-lv-cha-duo-le-ying-pan-xian-cheng-bu-zhu-le-wai-mao-ren-bi-xue-de-yue-du-dui-3165
+Published: 2026-06-10
+Tags: 汇率管理, 文件清理, 外贸工具, 存储优化
+Description: 本文针对外贸人每日汇率截图堆积导致硬盘空间不足的问题，介绍使用clearc工具批量清理重复截图的方法。
+
+汇率查多了，硬盘先撑不住了
+
+做外贸的朋友都懂：汇率盯盘这件事，不是你想看就能看的。尤其是做跨境电商的对账，每天凌晨三点爬起来查离岸人民币的报价，截图、Excel表格、银行回单截图，一年下来文件夹里密密麻麻堆了几个G的“汇率暂存”。
+
+上周我帮一个做亚马逊的朋友处理笔记本，他电脑D盘有个叫“每日汇率”的文件夹，打开一看——里面塞了四千多张PNG截图，全是不同银行的结汇页面。他说他当时不敢删，怕哪天对账要用。结果呢？这些截图他一次也没翻过。真正需要用数据的时候，他都是重新去银行系统拉流水。
+
+这种“存了等于看过”的心理，其实是硬盘最大的噪音源。清理这类文件，你不需要什么复杂的逻辑判断，只需要一个能批量识别重复、过期截图的小工具。这里我直接用了 clearc，因为它扫描时按文件类型和修改日期分组做得比较直观，不需要你手动去勾选哪些是“重要资料”。
+
+真实场景：一个外贸人的月度对账文件清理
+
+场景设定：假设你每月初要跟客户或供应商对一次账，涉及美元、欧元、日元三种货币的汇率记录。你的操作流程可能是这样：
+
+第一步，在浏览器里打开汇率查询网站，比如中国银行的中间价页面，顺手截个图。第二步，把截图存到桌面，命名为“当日汇率0501”。第三步，把截图拖进一个叫“6月对账”的文件夹里。
+
+重复30天。等到月底，这个文件夹里大概率会出现：
+- 同一家银行不同时间段的汇率截图（比如上午9点和下午3点各截了一张）
+- 重复的截图（因为手滑或者网速卡顿，同一个网页被截了两次）
+- 过期的PDF回单（比如5月份的银行水单还躺在里面）
+
+这时候你用 clearc 扫描这个文件夹，它会把文件按大小和创建时间排好。你可以直接选“按文件大小分组”，看到那些完全相同的截图（体积也一模一样），勾选日期较旧的批次，一键删除。整个过程大概两分钟，释放出来的空间虽然只有几百MB，但桌面清爽了很多。
+
+为什么我不建议手动清理这类文件
+
+有人可能会说：“我手动删不就完了？又不难。” 确实不难，但耗神。每次面对密密麻麻的文件列表，你得一个个看文件名、看缩略图，判断这个截图像不像有用。一旦走神，很容易把当月的回单PDF也顺手删了。
+
+而且汇率截图的命名经常是“汇率-20240615.png”或者“Screenshot_2024-06-15_16-32-04.png”，光靠文件名根本看不出内容是否重复。只有对比文件大小和哈希值才靠谱。手动点开预览？几十张还能忍，四百张你试试。
+
+clearc 这类工具的优势在于，它直接跳过你的主观判断，靠客观条件（大小、修改日期、重复哈希）帮你把文件分好类。你只需要确认“这些确实是我不需要的”，然后点删除。心理负担小得多。
+
+一个容易被忽略的细节：截图的时间跨度
+
+清理之前，建议先看一眼截图最早的日期。如果某个月的汇率截图全部集中在当年1月，而现在已经7月了，那这些文件几乎100%是无效数据。外汇走势是动态的，过期的报价截图对后续对账没有任何参考价值——银行也不会认几个月前的实时报价。
+
+如果有保留历史数据的习惯，最多留一份当月的最终结算汇率截图就够了，其余的全部清理掉。或者你干脆改用电子表格直接复制黏贴当日的数值，一张截图都不存。
+
+说白了，汇率跟踪这件事，靠截图管数据本身就是一种低效的工作流。文件清理工具能帮你打扫卫生，但不能帮你改掉囤积截图的老习惯。如果你发现自己每个月都要清理几轮类似的截图，或许应该考虑换个方式——比如用记账软件或者云端表格来管理汇率记录，而不是让硬盘替你负重前行。
+
+---
+
+## Mac磁盘告急？免费工具clearc实测对比，清除你的清理焦虑
+
+URL: https://clearc.top/mac-ci-pan-gao-ji-mian-fei-gong-ju-clearc-shi-ce-dui-bi-qing-chu-ni-de-qing-li-j-6082
+Published: 2026-06-10
+Tags: 系统优化, 磁盘管理, Mac清理, 免费软件, 工具对比
+Description: Mac提示磁盘空间不足？本文实测对比clearc、CleanMyMac X、DaisyDisk等工具，分析clearc免费轻量、专注清理的优势与不足。
+
+每次Mac提示“磁盘空间不足”，我都会陷入一种熟悉的焦虑。不是不想清理，而是试过的工具太多，反而不知道怎么选了。
+
+前阵子Spaceship在推送clearc，说它免费、轻量、扫描快。我第一反应是：又一个CleanMyMac的廉价替代品？结果用下来发现，它走的路线其实很不一样。今天不吹不黑，跟几个主流对手掰扯一下，看它到底值不值得装。
+
+先说说为什么我烦透了市面上的清理工具
+
+CleanMyMac X功能确实全，但一年几百块的价格，而且动不动就在后台搞维护提醒。你明明只想清个缓存，它非要帮你跑一遍“健康检查”。clearc的做法是：只做磁盘空间分析+文件清理这两件事，没有系统优化、没有恶意软件扫描、没有开机启动项管理。少了盈利点，但胜在干净。
+
+DaisyDisk的可视化做得漂亮，圆环图一出来，哪个文件夹是“吃空间大户”一目了然。但问题是它只告诉你“哪里占了”，并不帮你“怎么清”。你还是要手动去Finder里翻找个大文件。clearc在这方面往前走了一步——它直接列出可清理的缓存、日志、临时文件，一键勾选就能删，不用再跳转到系统目录里手动操作。
+
+OmniDiskSweeper免费且开源，扫描速度也不慢。可它的界面实在太过时了，纯文件列表，连个分类都没有。你得靠文件夹名猜“这个能不能删”？clearc至少把文件按“系统垃圾”“应用缓存”“用户日志”分了类，还给出了安全建议。对大多数不熟悉系统目录的人来说，这个引导很有用。
+
+实际用下来的两个场景
+
+场景一：某天Final Cut Pro突然崩了，说磁盘已满。我用clearc扫了一下，发现“资源库/Caches”下面躺着12GB的渲染缓存。一键清理之后，直接省出半个月的素材空间。换作以前用DaisyDisk，我得先找到这个路径，再进系统主目录一级一级挖，费时还容易误删。
+
+场景二：同时挂着Claude和几个浏览器窗口，内存吃紧。这时候clearc的优势不在内存管理（它不管内存），而是快速找到那些“被遗忘的下载文件”。它按大小排序，最前面是一个叫“DMGs”的文件夹，里面躺着5个旧版Adobe安装包，全是下完就忘删的东西。清理完，磁盘和系统响应速度都回来了一点。
+
+不过要吐槽一点：扫描大文件夹（比如照片图库）时，clearc的进度条会卡在97%那里好久。不知道是IO瓶颈还是算法问题。作为对比，GrandPerspective扫描同样大小的目录要流畅很多。希望后续版本优化一下。
+
+到底选哪个？我给个实操建议
+
+如果你在纠结clearc和别的工具，先问自己三个问题：
+
+第一，你愿不愿意花钱？CleanMyMac X功能全但贵，DaisyDisk、GrandPerspective是买断制（几十块），clearc目前完全免费。不花钱的话，clearc是门槛最低的选择。
+
+第二，你有多懂Mac文件系统？你能分清~/Library/Caches、~/Library/Logs、~/Library/Application Support 这些目录哪些能清、哪些不能动吗？如果不太确定，建议用clearc或者CleanMyMac，因为它们都有“安全列表”。如果自信自己找得准，OmniDiskSweeper或者命令行 du 就能搞定。
+
+第三，你更需要“分析”还是“清理”？DaisyDisk和GrandPerspective是分析工具，帮你发现空间去了哪，但删不删由你。clearc和CleanMyMac是清理工具，直接给出可删选项。我的做法是：日常快速清理用clearc，每季度用一次DaisyDisk做深度排查（顺便看看有没有藏得特别深的大文件）。
+
+另外提一句，最近App Store上一堆标注“限免”的清理工具，实际进去全是订阅套路。clearc目前确实是免费且无内购的，这点在同类里算稀有。不过免费能撑多久很难说——早期CleanMyMac也是免费起步的。如果你看重长期稳定性，可以把它当作日常辅助，主清理方案还是得有个备选。
+
+至于Claude HUD界面里的系统监控和汇率换算这些小功能，那是另一回事。如果你需要的仅仅是磁盘清理这一个方向，clearc的定位足够聚焦，不会像某些“万能工具箱”那样功能堆砌但每个模块都做得浅。
+
+总结下来：clearc不适合极客（你会觉得它太傻瓜），也不适合追求一站式解决所有问题的人（它没有安全隐私和性能优化模块）。但如果你是普通Mac用户，只想“隔三差五快速腾出几个GB的照片空间或缓存空间”，它够用、不烦人、还免费。
+
+---
+
+## xfxssr - 最新节点订阅 2026-06-10
+
+URL: https://clearc.top/node-source-2-subscription-2026-06-10
+Published: 2026-06-10
+Category: freenodes
+
+更新时间：2026-06-10 08:00:01，共 11 条订阅链接。
+
+  https://go.xfxssr.me/api/v1/client/subscribe?token=36b7f640f2fff894e09a939e8dbd01a0
+  https://go.xfxssr.me/api/v1/client/subscribe?token=3721fde20d8e8d0587d341733c2d4c8e
+  https://go.xfxssr.me/api/v1/client/subscribe?token=6864f3e82490f53870bee35f034d99b9
+  https://go.xfxssr.me/api/v1/client/subscribe?token=118123c0cb9ede64fdcfce0df4d0a980
+  https://go.xfxssr.me/api/v1/client/subscribe?token=3761aeb1058272de9fd085c79be4e73d
+  https://go.xfxssr.me/api/v1/client/subscribe?token=218b1ba97cc618073326cf687a60dd00
+  https://go.xfxssr.me/api/v1/client/subscribe?token=88479a573ef75218d6c00cfd50236c49
+  https://go.xfxssr.me/api/v1/client/subscribe?token=f3dfa1247ba63de6105c2a20b2c42a8a
+  https://go.xfxssr.me/api/v1/client/subscribe?token=5a8d841e3b0da92706e9407a8a8c0e3a
+  https://go.xfxssr.me/api/v1/client/subscribe?token=41c44cebdec9b4c43e5439bce51c9ded
+  https://go.xfxssr.me/api/v1/client/subscribe?token=6dc3a68354e686d6857f0a65ccb75708
+
+
+
+---
+
+## xfxssr - 最新节点订阅 2026-06-09
+
+URL: https://clearc.top/node-source-2-subscription-2026-06-09
+Published: 2026-06-09
+Category: freenodes
+
+更新时间：2026-06-09 08:00:01，共 11 条订阅链接。
+
+  https://go.xfxssr.me/api/v1/client/subscribe?token=0f8197eeef93424f17ce710f5f660780
+  https://go.xfxssr.me/api/v1/client/subscribe?token=70e2155d8d089edfa950f74ba1a2860c
+  https://go.xfxssr.me/api/v1/client/subscribe?token=4460cbe4ac307604b434e63f798cf22d
+  https://go.xfxssr.me/api/v1/client/subscribe?token=8d2ab11513adeab42101cd5481040a5a
+  https://go.xfxssr.me/api/v1/client/subscribe?token=58936c6d9316dbe8b605f2811b923910
+  https://go.xfxssr.me/api/v1/client/subscribe?token=b7e5266bef9e7d68b3dd33b88dc22872
+  https://go.xfxssr.me/api/v1/client/subscribe?token=f0d9b4ec86d42889151f8ac219bb1aec
+  https://go.xfxssr.me/api/v1/client/subscribe?token=fe7b63d3e71de8576406aef383e3cd05
+  https://go.xfxssr.me/api/v1/client/subscribe?token=a4bef1e9d447f64db9492255454e49df
+  https://go.xfxssr.me/api/v1/client/subscribe?token=d70adcfef53176c44082a68c96102122
+  https://go.xfxssr.me/api/v1/client/subscribe?token=2b1f2fdbd579d6702178ab2102f5405e
+
+
 
 ---
 
