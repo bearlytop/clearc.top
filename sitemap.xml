@@ -3,9 +3,21 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://clearc.top/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://clearc.top/node-source-2-subscription-2026-06-12/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clearc.top/node-source-2-subscription-2026-06-11/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://clearc.top/hui-lv-cha-duo-le-ying-pan-xian-cheng-bu-zhu-le-wai-mao-ren-bi-xue-de-yue-du-dui-3165/</loc>
@@ -822,31 +834,31 @@
   </url>
   <url>
     <loc>https://clearc.top/category/freenodes/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://clearc.top/category/products/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://clearc.top/category/tutorials/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://clearc.top/category/product/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://clearc.top/category/news/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

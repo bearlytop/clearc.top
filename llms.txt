@@ -10,6 +10,8 @@
 
 ## Recent Articles
 
+- [xfxssr - 最新节点订阅 2026-06-12](https://clearc.top/node-source-2-subscription-2026-06-12): 
+- [xfxssr - 最新节点订阅 2026-06-11](https://clearc.top/node-source-2-subscription-2026-06-11): 
 - [汇率查多了硬盘先撑不住了？外贸人必学的月度对账文件清理方法](https://clearc.top/hui-lv-cha-duo-le-ying-pan-xian-cheng-bu-zhu-le-wai-mao-ren-bi-xue-de-yue-du-dui-3165): 本文针对外贸人每日汇率截图堆积导致硬盘空间不足的问题，介绍使用clearc工具批量清理重复截图的方法。
 - [Mac磁盘告急？免费工具clearc实测对比，清除你的清理焦虑](https://clearc.top/mac-ci-pan-gao-ji-mian-fei-gong-ju-clearc-shi-ce-dui-bi-qing-chu-ni-de-qing-li-j-6082): Mac提示磁盘空间不足？本文实测对比clearc、CleanMyMac X、DaisyDisk等工具，分析clearc免费轻量、专注清理的优势与不足。
 - [xfxssr - 最新节点订阅 2026-06-10](https://clearc.top/node-source-2-subscription-2026-06-10): 
@@ -28,8 +30,6 @@
 - [shadowsocks机场选购必看：掉坑经历总结，晚高峰实测速度与节点稳定性是核心](https://clearc.top/shadowsocks-ji-chang-xuan-gou-bi-kan-diao-keng-jing-li-zong-jie-wan-gao-feng-shi-6129): 作者分享多个shadowsocks机场的掉坑经历，揭示虚假节点、限速等问题，并总结筛选标准：晚高峰实际速度和节点稳定性比数量更重要。
 - [xfxssr - 最新节点订阅 2026-06-05](https://clearc.top/node-source-2-subscription-2026-06-05): 
 - [xfxssr - 最新节点订阅 2026-06-04](https://clearc.top/node-source-2-subscription-2026-06-04): 
-- [实测AI硬盘清理工具ClearC：聪明但偶尔犯傻，值不值得用？](https://clearc.top/aiclearc-0264): 本文实测了AI硬盘清理工具ClearC，它能智能识别可删文件并支持对话式查询，但存在误判重要文件的风险，中文支持也有待优化。
-- [xfxssr - 最新节点订阅 2026-06-03](https://clearc.top/node-source-2-subscription-2026-06-03): 
 
 ## Categories
 
